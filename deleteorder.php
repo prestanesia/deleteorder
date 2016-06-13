@@ -32,7 +32,7 @@ class DeleteOrder extends Module
 {
     public function __construct()
     {
-        $this->name = 'prestanesiadeleteorder';
+        $this->name = 'deleteorder';
         $this->tab = 'administration';
         $this->version = '1.0';
         $this->author = 'Prestanesia';
